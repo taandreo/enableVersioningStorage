@@ -1,4 +1,4 @@
-# Enable versioning and soft delete options
+# Enable versioning and soft delete options for storage
 
 This script enables some versioning and soft delete options for an storage account and create a NotDelete lock.  
 
